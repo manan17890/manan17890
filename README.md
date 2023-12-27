@@ -1,16 +1,25 @@
-### Hi there 👋
+## 🚀 About Me
+I'm a full stack developer...
 
-<!--
-**manan17890/manan17890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just Chill and do Wonders
 
-Here are some ideas to get you started:
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+## Authors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [@Mananveer Singh Jodhka](https://github.com/manan17890)
+- [@Its Codingz](https://github.com/its-codingz)
+
+
+## My Portfolio
+
+https://mananveer-portfolio.vercel.app/
+
+
+## 🛠 Skills
+Javascript, HTML, CSS , Python , C , React Native , MySql.
+
+
+## Support
+
+You can contact me at mananveer3608@gmail.com
+
