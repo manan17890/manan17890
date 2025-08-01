@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cyber Security and Ethical Hacking<br><br>👨‍💻 All of my projects are available at https://mananveer-projects.netlify.app/<br><br>💬 Ask me about Website development<br><br>📫 Reach me at mananveer3608@gmail.com<br><br>📄 Know about my experiences and portfolio at https://mananveer-portfolio.netlify.app/<br><br>⚡ Fun fact I am just an average Python fan.
+🌱 I’m currently learning Cyber Security and Ethical Hacking<br><br>👨‍💻 All of my projects are available at [https://mananveer-projects.netlify.app/](https://mananveer-portfolio.vercel.app/)<br><br>💬 Ask me about Website development<br><br>📫 Reach me at mananveer3608@gmail.com<br><br>📄 Know about my experiences and portfolio at [https://mananveer-portfolio.netlify.app/](https://mananveer-portfolio.vercel.app/)<br><br>⚡ Fun fact I am just an average Python fan.
 
 
 ## 🌐 Socials:
